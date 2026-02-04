@@ -12,3 +12,5 @@ library/node:latest
 library/python:latest
 rabbitmq:management-alpine
 rollernaut/oracle19c:latest
+cluedin/sqlserver:develop
+kurthunter/sqlserver:v2
