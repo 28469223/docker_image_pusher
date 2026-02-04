@@ -11,4 +11,4 @@ library/redis:latest
 library/node:latest
 library/python:latest
 rabbitmq:management-alpine
-
+rollernaut/oracle19c:latest
