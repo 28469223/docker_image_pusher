@@ -5,4 +5,10 @@ xhofe/alist:latest
 whyour/qinglong:latest
 mysql:5.7
 madiva/openjdk21:latest
+nginx:alpine
+library/postgres:latest
+library/redis:latest
+library/node:latest
+library/python:latest
+rabbitmq:management-alpine
 
